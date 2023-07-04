@@ -1,4 +1,4 @@
-module gtranslate
+module github.com/wznpp1/gtranslate
 
 go 1.20
 

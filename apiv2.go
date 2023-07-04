@@ -1,4 +1,4 @@
-package gtranslate
+package github.com/wznpp1/gtranslate
 
 import (
 	"encoding/json"
