@@ -105,7 +105,6 @@ func updateTTK(TTK otto.Value) (otto.Value, error) {
 		return TTK, nil
 	}
 
-	//resp, err := http.Get()
 	body := ""
 	err = gout2.
 		New().
